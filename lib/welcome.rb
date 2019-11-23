@@ -1,1 +1,1 @@
-puts "welcome tic tac toe!"
+puts "welcome to tic tac toe!"
